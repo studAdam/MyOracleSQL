@@ -1,3 +1,3 @@
 ERD diagram of Bus Station Management System
 
-![Advanced Database Management]([ADM ERD Diagram.drawio.png](https://github.com/studAdam/MyOracleSQL/blob/main/ERD%20Diagram.drawio.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Advanced Database Management ERD Diagram")
